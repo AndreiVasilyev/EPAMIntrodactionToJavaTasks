@@ -1,0 +1,5 @@
+package by.epamLearning.oop.task3.entity;
+
+public enum DayOfWeek {
+	MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
+}
